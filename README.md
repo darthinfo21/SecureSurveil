@@ -10,8 +10,8 @@ The primary goal of this project is to develop a robust surveillance system capa
 
 - Arduino UNO: Utilized for sensor control and interfacing with various components.
 - ESP8266: Integrated for movement control and communication capabilities.
-- Motor drivers: Employed for controlling the movement of surveillance components.
-- Sensors: Incorporates motion detection sensors for detecting intrusions.
+- Motor drivers: These are employed to control the movement of surveillance components.
+- Sensors: Motion detection sensors are incorporated to detect intrusions.
 - Laser guidance: Implemented for precise targeting and tracking of suspicious activities.
 
 ## Features
@@ -19,7 +19,7 @@ The primary goal of this project is to develop a robust surveillance system capa
 - Autonomous surveillance: The system operates independently, continuously monitoring the designated area for any suspicious activities.
 - Motion detection: Utilizes advanced sensors to detect motion within the surveillance zone.
 - Precise movement control: ESP8266 enables precise movement of surveillance components, ensuring optimal coverage.
-- Laser guidance: Incorporates laser guidance for accurate targeting and tracking of detected intrusions.
+- Laser guidance: Laser guidance is incorporated for targeting and tracking detected intrusions.
 
 ## Installation
 
@@ -54,6 +54,4 @@ git clone https://github.com/your_username/surveillance-system.git
 Contributions are welcome! If you want to contribute to this project, feel free to submit a pull request.
 
 ## Acknowledgments
-
-- This project was inspired by the growing need for advanced security measures in high-risk environments.
-- We acknowledge the contributions of the open-source community, which provided essential tools and resources for the development of this surveillance system.
+- We acknowledge the contributions of the open-source community, which provided essential tools and resources for developing this surveillance system.
